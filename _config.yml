@@ -1,3 +1,4 @@
 theme: minimal-mistakes-jekyll
 name: Mickey Feliciano, Data Student
 markdown: kramdown
+minimal_mistakes_skin: "sunrise"
