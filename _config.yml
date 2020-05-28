@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 name: Mickey Feliciano, Data Student
+remote_theme: minimal-mistakes-jekyll
 markdown: kramdown
 minimal_mistakes_skin: "dirt"
-remote_theme: minimal-mistakes-jekyll
