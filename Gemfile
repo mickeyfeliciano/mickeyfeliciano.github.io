@@ -7,3 +7,4 @@ $ bundle install
 $ git add Gemfile Gemfile.lock
 gem "minimal-mistakes-jekyll"
 bundle update
+gem 'minimal-mistakes-jekyll', :git => 'https://github.com/mmistakes/minimal-mistakes.git', :branch => 'color-skins'
