@@ -1,8 +1,6 @@
 name: Mickey Feliciano, Data Student
-theme: minimal-mistakes-jekyll
 markdown: kramdown
-minimal_mistakes_skin: "dirt"
-theme                  : "minimal-mistakes-jekyll"
+theme                    : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "dirt"
 
 # Site Settings
