@@ -6,3 +6,4 @@ gem 'rspec'
 $ bundle install
 $ git add Gemfile Gemfile.lock
 gem "minimal-mistakes-jekyll"
+bundle update
