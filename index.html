@@ -3,6 +3,7 @@ layout: default
 title: Mickey Feliciano, Data Student
 ---
 <div class="blurb">
+	{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}
 	<h1>Hi there, I'm Mickey!</h1>
 	<p> Website coming soon!</p>
 </div><!-- /.blurb -->
