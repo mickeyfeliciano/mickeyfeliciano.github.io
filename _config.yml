@@ -34,6 +34,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
+      url: "https://gmail.com/"
       email: mickey.feliciano@gmail.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
