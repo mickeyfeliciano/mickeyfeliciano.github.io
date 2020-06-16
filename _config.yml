@@ -1,10 +1,10 @@
 name: Mickey Feliciano, Data Student
-title: Mickey Feliciano, Portfolio
+title: Offical Portfolio
 email: mickey.feliciano@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Applied Data Science Portfolio
 github_username: MickeyFeliciano
-minimal_mistakes_skin: sunrise
+minimal_mistakes_skin: dirt
 search: true
 
 # Build settings
@@ -18,19 +18,6 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -46,7 +33,7 @@ author:
   bio    : "Syracuse Applied Data Science - Grad Student."
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-email"
+      icon: "fas fa-fw fa-mail"
       url: "https://"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
