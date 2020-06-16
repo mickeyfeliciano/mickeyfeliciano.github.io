@@ -1,7 +1,7 @@
 main:
-  - title: "Posts"
+  - title: "Projects"
     url: /posts/
-  - title: "Categories"
+  - title: "R Markdown Samples"
     url: /categories/
   - title: "Tags"
     url: /tags/
