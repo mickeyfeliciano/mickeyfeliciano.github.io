@@ -45,8 +45,8 @@ author:
   avatar : "/assets/images/Cuse.JPEG"
   bio    : "Syracuse Applied Data Science - Grad Student."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    - label: "Email"
+      icon: "fas fa-fw fa-email"
       url: "https://"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
