@@ -33,7 +33,7 @@ author:
   bio    : "Syracuse Applied Data Science - Grad Student."
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-mail"
+      icon: "fas fa-fw fa-envelope"
       url: "https://"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -48,7 +48,7 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
