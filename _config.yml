@@ -42,7 +42,7 @@ plugins:
 
 author:
   name   : "Mickey Feliciano"
-  avatar : "/assets/images/CUSE.JPEG"
+  avatar : "/assets/images/Cuse.JPEG"
   bio    : "Syracuse Applied Data Science - Grad Student."
   links:
     - label: "Website"
