@@ -2,9 +2,8 @@
 title: "Post: Standard"
 excerpt_separator: "<!--more-->"
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Deep Learning
+  - Munging
 ---
 
 Standard Post
