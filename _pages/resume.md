@@ -1,6 +1,6 @@
 ---
 title: "Resume"
 permalink: /resume/
-layout: resume
+layout: pages
 author_profile: true
 ---
