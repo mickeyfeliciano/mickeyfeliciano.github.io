@@ -1,8 +1,8 @@
 main:
-  - title: "Projects"
-    url: /projects/
-  - title: "R Markdown Samples"
-    url: /rmarkdown/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Resume"
+    url: /resume/
   - title: "Tags"
     url: /tags/
   - title: "About"
