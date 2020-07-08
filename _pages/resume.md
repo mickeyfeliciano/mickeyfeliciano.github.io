@@ -3,4 +3,4 @@ title: "Resume"
 permalink: /resume/
 author_profile: true
 ---
-<iframe src="https://mickeyfeliciano.github.io/FelicianoResume.pdf"></iframe>
+<iframe src="https://mickeyfeliciano.github.io/FelicianoResume.pdf" width="90%" height="400"></iframe>
