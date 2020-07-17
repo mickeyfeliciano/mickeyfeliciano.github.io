@@ -29,7 +29,8 @@ plugins:
 
 author:
   name   : "Mickey Feliciano"
-  avatar : "/assets/css/Cuse2.jpg" width="200" height="200"
+  avatar : "/assets/css/Cuse2.jpg"
+      - shape: "square"
   bio    : "Syracuse University Graduate 2021 Master of Applied Data Science"
   links:
     - label: "Email"
