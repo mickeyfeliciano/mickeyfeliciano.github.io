@@ -34,11 +34,11 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "https://gmail.com/"
+      url: "mailto:mickey.feliciano@gmail.com.com"
       email: mickey.feliciano@gmail.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/mickeyfeliciano/mickeyfeliciano.github.io"
 
 footer:
   links:
