@@ -7,7 +7,8 @@ tags:
   - Term Project
   - Database
   - Data Management
+link: https://drive.google.com/file/d/1NYVUSSKMa76ximxnRb5YwWNZFl76YTYI/view?usp=sharing
 ---
 
 Designed and implemented a database to solve a database management of my choosing.
-link: https://drive.google.com/file/d/1NYVUSSKMa76ximxnRb5YwWNZFl76YTYI/view?usp=sharing
+
