@@ -30,7 +30,7 @@ plugins:
 author:
   name   : "Mickey Feliciano"
   avatar : "/assets/css/Cuse2.jpg"
-  bio    : "Master of Applied Data Science, Syracuse '21 "
+  bio    : "Syracuse University Graduate Student 2021  Master of Applied Data Science"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
