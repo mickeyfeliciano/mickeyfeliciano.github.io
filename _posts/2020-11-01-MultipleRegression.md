@@ -3,6 +3,7 @@ title: "Multiple Regression"
 tags:
   - Multiple Regression
   - Linear Regression
+  - General Linear Model
   - Bayesian Statistics
   - Frequentist Statistics
   - R
