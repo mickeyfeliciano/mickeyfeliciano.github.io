@@ -1,8 +1,8 @@
 main:
-  - title: "Resume"
-    url: /resume/
   - title: "Work Samples"
     url: /samples/
+  - title: "Resume"
+    url: /resume/
   - title: "Samples by Tag"
     url: /tags/
   - title: "MADS Portfolio"
