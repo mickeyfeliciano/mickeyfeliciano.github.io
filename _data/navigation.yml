@@ -1,9 +1,11 @@
 main:
-  - title: "Portfolio"
-    url: /portfolio/
   - title: "Resume"
     url: /resume/
+  - title: "Work Samples"
+    url: /samples/
   - title: "Samples by Tag"
     url: /tags/
+  - title: "MADS Portfolio"
+    url: /MADS_Portfolio/
   - title: "About"
     url: /about/
