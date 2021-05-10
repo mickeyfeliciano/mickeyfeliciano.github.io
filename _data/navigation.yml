@@ -5,7 +5,7 @@ main:
     url: /resume/
   - title: "Samples by Tag"
     url: /tags/
-  - title: "MADS Portfolio"
-    url: /MADS_Portfolio/
+  - title: "MADS Milestone"
+    url: /MADS_Milestone/
   - title: "About"
     url: /about/
