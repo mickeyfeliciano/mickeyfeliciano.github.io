@@ -1,6 +1,6 @@
 ---
 permalink: /MADS_Portfolio/
-title: "MADS Portfolio"
+title: "MADS Milestone"
 author_profile: true
 ---
 
